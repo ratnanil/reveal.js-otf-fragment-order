@@ -10,7 +10,8 @@ But you can't display him just yet because you will already show them one they h
 
 **With this plugin offcourse!**
 
-##Installation
+## Installation
+
 First of all download the code, It's available in CoffeeScript and plain JavaScript, and place it in `plugin/otf-fragment-order`
 
 The second thing to do, is include it as a dependency in your initialization. And enable it.
@@ -43,7 +44,8 @@ And the last thing to do is to add a data attribute to your slide.
 ```
 That's all for installation
 
-##Usage in presentation
+## Usage in presentation
+
 On this slide when they tell you Grumpy now, you are prepared!
 
 Just use the numerical keys on the top of your keyboard for the number you want to show, so for Grumpy you type 2.
